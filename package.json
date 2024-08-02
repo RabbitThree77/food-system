@@ -10,7 +10,18 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/fonts": "^0.7.1",
+    "@primevue/themes": "^4.0.3",
+    "@supabase/supabase-js": "^2.45.0",
     "nuxt": "^3.12.4",
+    "nuxt-storage": "^1.2.2",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.0.3",
+    "tailwindcss-primeui": "^0.3.4",
     "vue": "latest"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.1",
+    "@primevue/nuxt-module": "^4.0.3"
   }
 }
